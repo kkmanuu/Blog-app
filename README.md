@@ -110,6 +110,7 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[creating a data model]**
+-  [ ] **[processing data in models]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
