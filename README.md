@@ -143,7 +143,6 @@ I would like to thank the Microverse Team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
 
 ## :memo: License <a name="license"></a>
