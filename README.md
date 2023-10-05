@@ -111,7 +111,8 @@ Example command:
 
 - [ ] **[creating a data model]**
 -  [ ] **[processing data in models]**
-
+-  [ ] **[Use validations for models.]**
+-  [ ] **[Write unit tests for models]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
