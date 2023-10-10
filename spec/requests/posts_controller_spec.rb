@@ -46,7 +46,6 @@ RSpec.describe PostsController, type: :request do
       expect(response.body).to include("Post by #{user.name}")
       expect(response.body).to include('Post Title')
       expect(response.body).to include('Post Content')
-
     end
   end
 end
