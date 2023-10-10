@@ -115,6 +115,9 @@ Example command:
 -  [ ] **[Write unit tests for models]**
 -  [ ] **[Use controllers to handle requests and render empty views]**
 -  [ ] **[Use params from browser requests in a safe way]**
+-  [ ] **[tests for controllers.]**
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
