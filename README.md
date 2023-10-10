@@ -113,7 +113,8 @@ Example command:
 -  [ ] **[processing data in models]**
 -  [ ] **[Use validations for models.]**
 -  [ ] **[Write unit tests for models]**
-
+-  [ ] **[Use controllers to handle requests and render empty views]**
+-  [ ] **[Use params from browser requests in a safe way]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
