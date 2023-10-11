@@ -116,7 +116,8 @@ Example command:
 -  [ ] **[Use controllers to handle requests and render empty views]**
 -  [ ] **[Use params from browser requests in a safe way]**
 -  [ ] **[tests for controllers.]**
-
+-  [ ] **[Use preprocessed HTML file with embedded Ruby code]**
+- [ ] **[Use layouts and templates for shared content.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
