@@ -118,6 +118,7 @@ Example command:
 -  [ ] **[tests for controllers.]**
 -  [ ] **[Use preprocessed HTML file with embedded Ruby code]**
 - [ ] **[Use layouts and templates for shared content.]**
+- [ ] **[Add forms]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

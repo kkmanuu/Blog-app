@@ -1,7 +1,7 @@
-a href="<%= user_posts_path(@user) %>">
-<p>Name: <%= @user.name %></p>	  <button class="custom-back-btn">⬅</button>
-<p>Photo: <%= @user.photo %></p>	</a>
-<p>Bio: <%= @user.bio %></p>	<div class="custom-user-box">
+<a href="<%= user_posts_path(@user) %>">
+  <button class="custom-back-btn">⬅</button>
+</a>
+<div class="custom-user-box">
   <%= render partial: 'user_helper/user_photo', locals: { user: @user } %>
   <%= render partial: 'user_helper/user_details', locals: { user: @user } %>
 </div>
@@ -11,7 +11,7 @@ a href="<%= user_posts_path(@user) %>">
     <%= @user.bio %>
   </p>
 </div>
-<% @user.recent_posts.each do |post| %>
+<% @three_recent_posts.each do |post| %>
   <div class="custom-post custom-bio">
     <h3>Post <%= raw "#" + post.id.to_s %></h3>
     <p><%= post.text %></p>
