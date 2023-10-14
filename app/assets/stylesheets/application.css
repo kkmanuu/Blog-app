@@ -74,7 +74,7 @@
   margin-bottom: 1rem;
 }
 
-ul, a {
+ul , a {
   padding: 0;
   margin: 0;
   text-decoration: none;
@@ -122,7 +122,7 @@ h1 {
   margin-bottom: 5px;
 }
 
-.form-input, .form-textarea {
+.form-input , .form-textarea {
   width: 100%;
   padding: 8px;
   margin-bottom: 10px;
