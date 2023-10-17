@@ -121,8 +121,14 @@ Example command:
 👤 **Kerlos bahaa**
 
 - GitHub: [@Kerlos bahaa](https://github.com/kerlos-bahaa)
-- LinkedIn: [@Kerlos bahaa
-](https://www.linkedin.com/in/kerlos-bahaa/)
+- LinkedIn: [@Kerlos bahaa](https://www.linkedin.com/in/kerlos-bahaa/)
+
+👤 **BAHATI Marie-Grace**
+
+- GitHub: [@mariegrace31](https://github.com/mariegrace31)
+- Twitter: [@mariegracebmg](https://twitter.com/mariegracebmg)
+- LinkedIn: [Marie Grace Bahati](www.linkedin.com/in/marie-grâce-bahati)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
