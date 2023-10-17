@@ -10,3 +10,4 @@ class Like < ApplicationRecord
     post.increment!(:like_counter)
   end
 end
+
