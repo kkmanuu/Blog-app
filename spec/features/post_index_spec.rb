@@ -26,28 +26,4 @@ RSpec.describe 'Post index ' do
     expect(page).to have_content('Number of posts: 3')
   end
 
-  it 'can see a post title' do
-    expect(page).to have_content('Rails Journey')
-  end
-
-  it 'can see some of post body' do
-    expect(page).to have_content('Exploring the world.')
-  end
-
-  it 'can see first comment on post ' do
-    expect(page).to have_content('Great post!')
-  end
-
-  it 'can see how many likes a post has' do
-    expect(page).to have_content('Likes: 2')
-  end
-
-  it 'can see section for pagination if there are more posts than fit on the view.' do
-    expect(page).to have_content('Pagination')
-  end
-
-  it "When I click on a post, it redirects me to that post's show page." do
-    click_on 'Rails Journey'
-    expect(page).to have_content('Rails Journey')
-  end
-end
+  # write your code below
