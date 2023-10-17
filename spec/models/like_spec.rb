@@ -1,7 +1,7 @@
 require 'rails_helper'
 
 RSpec.describe Like, type: :model do
-  let(:user) { User.create(name: 'kipngenoemmanuel') }
+  let(:user) { User.create(name: 'Alice') }
   let(:post) { user.posts.create(title: 'Sample Post') }
 
   describe 'validations' do
