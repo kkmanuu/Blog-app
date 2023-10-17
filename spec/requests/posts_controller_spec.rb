@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.describe PostsController, type: :request do
   describe 'GET #index' do
-    let(:user) { User.create(name: 'manuu mdgo', photo: 'example.jpg', bio: 'Lorem ipsum') }
+    let(:user) { User.create(name: 'John Doe', photo: 'example.jpg', bio: 'Lorem ipsum') }
 
     before do
       user.posts.create(title: 'Post 1', text: 'Content of post 1')
@@ -28,7 +28,7 @@ RSpec.describe PostsController, type: :request do
   end
 
   describe 'GET #show' do
-    let(:user) { User.create(name: 'manuu mdogo', photo: 'example.jpg', bio: 'Lorem ipsum') }
+    let(:user) { User.create(name: 'John Doe', photo: 'example.jpg', bio: 'Lorem ipsum') }
     let(:post) { user.posts.create(title: 'Post Title', text: 'Post Content') }
 
     it 'returns a successful response' do
