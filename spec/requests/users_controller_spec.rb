@@ -19,7 +19,7 @@ RSpec.describe UsersController, type: :request do
   end
 
   describe 'GET #show' do
-    let!(:user) { User.create(name: 'manuu mdogo', photo: 'example.jpg', bio: 'Lorem ipsum') }
+    let!(:user) { User.create(name: 'John Doe', photo: 'example.jpg', bio: 'Lorem ipsum') }
 
     it 'returns a successful response' do
       get user_path(user)
