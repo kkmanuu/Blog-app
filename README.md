@@ -31,7 +31,9 @@
 
 **[Catalog of My Things]**
 This is a fully functional blog application that features a website where readers can explore a curated list of posts and actively engage with them by posting comments and expressing their appreciation through post likes.
+
 ## 🛠 Built With <a name="built-with"></a>
+
 - Rails
 - PostgreSQL
 <!-- Features -->
@@ -47,6 +49,7 @@ This is a fully functional blog application that features a website where reader
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
 - Laptop
 - Github
 - Git
@@ -57,6 +60,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+
 - To install Ruby following these steps:
 - Install the latest version on ruby+devkit [rubyinstaller](https://rubyinstaller.org/downloads/)
 - Follow the installation steps [here](https://stackify.com/install-ruby-on-windows-everything-you-need-to-get-going/)
@@ -66,31 +70,42 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 Example commands:
+
 ```sh
   cd my-folder
   git clone git@github.com:kkmanuu/Blog-app.git
 ```
+
 ### Install
+
 Install this project with:
 Example command:
+
 ```sh
   cd vortex
   gem install
 ```
+
 ### Usage
+
 To run the project, execute the following command:
 Example command:
+
 ```sh
   rails server
   OR
   rails s
 ```
+
 ### Run tests
+
 To run tests, run the following command:
 Example command:
+
 ```sh
   bin/rails test test/models/post_test.rb
 ```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -103,6 +118,11 @@ Example command:
 - Twitter: [@twitterhandle](https://twitter.com/Kkmanuu1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-kipngeno/)
 
+👤 **Kerlos bahaa**
+
+- GitHub: [@Kerlos bahaa](https://github.com/kerlos-bahaa)
+- LinkedIn: [@Kerlos bahaa
+](https://www.linkedin.com/in/kerlos-bahaa/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -110,13 +130,13 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[creating a data model]**
--  [ ] **[processing data in models]**
--  [ ] **[Use validations for models.]**
--  [ ] **[Write unit tests for models]**
--  [ ] **[Use controllers to handle requests and render empty views]**
--  [ ] **[Use params from browser requests in a safe way]**
--  [ ] **[tests for controllers.]**
--  [ ] **[Use preprocessed HTML file with embedded Ruby code]**
+- [ ] **[processing data in models]**
+- [ ] **[Use validations for models.]**
+- [ ] **[Write unit tests for models]**
+- [ ] **[Use controllers to handle requests and render empty views]**
+- [ ] **[Use params from browser requests in a safe way]**
+- [ ] **[tests for controllers.]**
+- [ ] **[Use preprocessed HTML file with embedded Ruby code]**
 - [ ] **[Use layouts and templates for shared content.]**
 - [ ] **[Add forms]**
 
@@ -136,7 +156,6 @@ Feel free to check the [issues page](https://github.com/kkmanuu/Blog-app/issues)
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project give us a ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -152,5 +171,7 @@ I would like to thank the Microverse Team.
 <!-- LICENSE -->
 
 ## :memo: License <a name="license"></a>
+
 This project is [MIT](./LICENSE.md) licensed.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
