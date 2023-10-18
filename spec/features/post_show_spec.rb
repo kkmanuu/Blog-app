@@ -31,16 +31,13 @@ RSpec.describe 'Post show' do
   it 'see how many likes it has' do
     expect(page).to have_content('Likes: 1')
   end
-
   it 'see the post body' do
     expect(page).to have_content('Exploring the world of Rails development.')
   end
-
   it 'see the username of each commentator' do
     expect(page).to have_content(@comment1.author.name)
     expect(page).to have_content(@comment2.author.name)
   end
-
   it 'see the comment of each commentator left' do
     expect(page).to have_content('Great post!')
     expect(page).to have_content('I learned a lot.')
